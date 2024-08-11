@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": "392",
+      "type": "Employee",
+      "name": "Omkar",
+      "ppu": "React"
+    },
+    {
+      "id": "526",
+      "type": "Senior Employee",
+      "name": "Mayur",
+      "ppu": "Mendix"
+    },
+    {
+      "id": "638",
+      "type": "Employee",
+      "name": "Girish",
+      "ppu": "React"
+    },
+    {
+      "id": "2562",
+      "type": "Boss",
+      "name": "Anukesh Sonawane",
+      "ppu": "Mendix + React"
+    }
+  ],
+  "comments": {
+    "id": "1",
+    "name": "Steve Smith",
+    "comment": "Wow"
+  }
+}
